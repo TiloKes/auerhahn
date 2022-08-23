@@ -23,6 +23,7 @@ h1 {
 #kleister {
     margin: 50px;
     font-size: 15px;
+    color: black;
 }
 
 
@@ -66,7 +67,7 @@ ul li {
 }
 
 ul li:hover {
-    background-color: black;
+    background-color:gold;
 }
 
 ul li a {
@@ -75,7 +76,6 @@ ul li a {
 
 ul li a:hover {
     padding: 5px;
-    color:lightgray;
     text-align: left;
 }
 
