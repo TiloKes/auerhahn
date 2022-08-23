@@ -90,7 +90,7 @@ ul li a:hover {
 .vogel1 {
     padding:10px;
     border: 1px solid black;
-    width: 50%;
+    width: 30%;
     background-color: blueviolet;
     border: 1px solid black;
     float: left;
@@ -100,7 +100,7 @@ ul li a:hover {
 .vogel2 {
     padding:10px;
     border: 1px solid black;
-    width: 50%;    
+    width: 30%;
     background-color: blueviolet;
     float: right;
     box-sizing: border-box;
