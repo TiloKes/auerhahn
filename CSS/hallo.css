@@ -62,7 +62,7 @@ ul li {
     list-style-type: none;
     margin: 5px;
     padding: 10px;
-    border: 2px solid blue;
+    border: 2px solid black;
 }
 
 ul li:hover {
