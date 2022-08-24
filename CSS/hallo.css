@@ -27,56 +27,28 @@ h1 {
 }
 
 
-#navigation_links_oben {
-    padding: 20px;
+.nav {
+    padding: 10px;
     border: 2px solid black;
     width: 40%;
     text-align: left;
     float: left;
 }
 
-#navigation_rechts_oben {
-    padding: 20px;
-    border: 2px solid black;
-    width: 40%;
-    text-align: left;
-    float: left;
-}
-
-#navigation_links_unten {
-    padding: 20px;
-    border: 2px solid black;
-    width: 40%;
-    text-align: left;
-    float: left;
-}
-
-#navigation_rechts_unten {
-    padding: 20px;
-    border: 2px solid black;
-    width: 40%;
-    text-align: left;
-    float: left;
-}
-
-ul li {
+.nav ul li {
     list-style-type: none;
     margin: 5px;
     padding: 10px;
     border: 2px solid black;
 }
 
-ul li:hover {
-    background-color:gold;
-}
-
-ul li a {
+.nav ul li a {
     text-decoration: none;
+    color: black;
 }
 
-ul li a:hover {
-    padding: 5px;
-    text-align: left;
+.nav ul li:hover, .nav ul li:active, .nav ul li:focus {
+    background-color: green;
 }
 
 .franz {
