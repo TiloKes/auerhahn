@@ -60,6 +60,10 @@ h1 {
     float: left;
 }
 
+.zentrieren {
+    text-align: center;
+}
+
 .franz {
     margin: 50px;
     padding-top: 100px;
