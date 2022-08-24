@@ -6,7 +6,8 @@ body {
 h1 {
     margin: 50px;
     padding: 20px;
-    color:darkorange;
+    background-color:gold;
+    color:black;
     border: 2px solid black;
     text-align:left;
 }
