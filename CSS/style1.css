@@ -1,0 +1,58 @@
+#lvorname{
+	display: block;
+	width: 200px;
+	border-color: teal;
+	border-style: solid;
+	border-width:  2px;
+}
+#lnachname{
+	display: block;
+	width: 200px;
+	border-color: red;
+	border-style: solid;
+	border-width:  2px;
+	}
+#lemail{
+	display: block;
+	width: 200px;
+	border-color: yellow;
+	border-style: solid;
+	border-width:  2px;
+
+}
+.hallo{
+	float: left;
+	width: 120px;
+	border-color: #000;
+	border-style: solid;
+	border-width: 2px;
+}
+.hali{
+	float: right; 
+	width: 120px;	
+	border-color: #000;
+	border-style: solid;
+	border-width: 2px;
+}
+#rvorname{
+	float: right;
+	width: 200px;
+	border-color: teal;
+	border-style: solid;
+	border-width:  2px;
+}
+#rnachname{
+	float: right;
+	width: 200px;
+	border-color: red;
+	border-style: solid;
+	border-width:  2px;
+}
+#remail{
+	float: right;
+	width: 200px;
+	border-color: yellow;
+	border-style: solid;
+	border-width:  2px;
+}
+

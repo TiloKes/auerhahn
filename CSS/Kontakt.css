@@ -1,0 +1,91 @@
+#form1 label {
+	color: #00F;
+	padding: 2px;
+}
+#form1 {
+	margin-left: 2%;
+	margin-top: 2%;
+}
+.home {
+	color: #00C;
+	background-color: #CEFFCE;
+	text-decoration: none;
+	width: 100px;
+	border: 2px solid #00C;
+	margin-top: 2%;
+	margin-left: 2%;
+	display: block;
+	padding-left: 20px;
+}
+.home:hover, .home:active, .home:focus {
+	text-decoration: none;
+	background-color: #CCF;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+
+
+
+.formtext {
+	display: block;
+	float: left;
+	width: 100px;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	margin-left: 50px;
+	color: #03C;
+}
+#senden {
+	color: #009;
+	background-color: #0F3;
+	width: 100px;
+	margin-left: 50px;
+	border: 2px solid #060;
+}
+
+.formtext:hover, .formtext:active, .formtext:focus {
+	color: #306;
+	background-color: #E8F8FF;
+	text-decoration: underline;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	text-decoration: none;
+}
+
+.inputname {
+	width: 500px;
+	border: 1px solid #00F;
+	display: block;
+	font-family: Verdana, Geneva, sans-serif;
+	padding: 3px;
+	color: #000;
+}
+
+.inputname:hover, .inputname:active, .inputname:focus {
+	color: #309;
+	background-color: #CCF;
+	width: 500px;
+	border: 1px solid #30C;
+	padding: 3px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.background {
+	background-color: #D2BFF2;
+	padding: 10px;
+	border: 2px solid #313131;
+}
+#antwort {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	position: fixed;
+	visibility: hidden;
+}
