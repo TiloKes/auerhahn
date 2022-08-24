@@ -50,7 +50,7 @@ h1 {
 }
 
 .nav ul li:hover, .nav ul li:active, .nav ul li:focus {
-    background-color: green;
+    background-color:gold;
 }
 
 .trennung {
