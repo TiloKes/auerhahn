@@ -1,0 +1,14 @@
+.sidebar_links {
+	display: inline;
+	float: inline-start;
+	background-color: #146D6D;
+	width: 50%;
+	font-size: 12px;
+}
+.sidebar_rechts {
+	display: inline;
+	float: inline-end;
+	background-color: #A042FF;
+	width: 50%;
+	font-size: 12px;
+}
