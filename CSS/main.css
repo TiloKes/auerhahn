@@ -15,6 +15,18 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    background-color:gold;
+    color:black;
+    border: 2px solid black;
+}    
+
+h3 {
+    background-color:gold;
+    color:black;
+    border: 2px solid black;
+}
+
 .holly {
     margin: 50px;
     padding: 20px;
@@ -84,4 +96,19 @@ h1 {
     border: 1px solid black;
     background-color: blueviolet;
     clear: both;
+}
+
+.sidebar_links {
+	display: inline;
+	float: inline-start;
+	background-color: #146D6D;
+	width: 50%;
+	font-size: 12px;
+}
+.sidebar_rechts {
+	display: inline;
+	float: inline-end;
+	background-color: #A042FF;
+	width: 50%;
+	font-size: 12px;
 }
