@@ -82,8 +82,9 @@ h3 {
 }
 
 .trennung {
+    margin-bottom: 20px;
     width: 100%;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     float: left;
 }
 
