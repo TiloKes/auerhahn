@@ -1,4 +1,5 @@
 .sidebar_links {
+	margin-top: 2em;
 	display: inline;
 	float: inline-start;
 	background-color: #146D6D;
@@ -6,6 +7,7 @@
 	font-size: 12px;
 }
 .sidebar_rechts {
+	margin-top: 2em;
 	display: inline;
 	float: inline-end;
 	background-color: #A042FF;
