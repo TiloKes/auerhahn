@@ -4,13 +4,15 @@
 	float: inline-start;
 	background-color: #146D6D;
 	width: 50%;
+	/*border: 1px solid lightgreen;*/
 	font-size: 12px;
 }
 .sidebar_rechts {
 	margin-top: 2em;
 	display: inline;
 	float: inline-end;
-	background-color: #A042FF;
+	background-color: #146D6D;
 	width: 50%;
+	/*border: 1px solid blue;*/
 	font-size: 12px;
 }
