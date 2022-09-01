@@ -100,3 +100,8 @@ h3 {
     background-color: blueviolet;
     clear: both;
 }
+
+.float_left {
+    margin: 5%;
+    float: left;
+}
