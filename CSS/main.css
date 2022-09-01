@@ -6,8 +6,8 @@ body {
 h1 {
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 1%;
+    margin-right: 1%;
     padding: 20px;
     background-color:gold;
     color:black;
@@ -16,7 +16,6 @@ h1 {
 }
 
 h2 {
-    margin-left: 40px;
     background-color:gold;
     color:black;
     border: 2px solid black;
@@ -41,15 +40,16 @@ h3 {
     text-align: center;
 }
 
-#kleister {
-    margin: 50px;
+.kleister {
+    margin-left: 1%;
+    margin-right: 1%;
     font-size: 18px;
 }
 
 
 .nav {
     padding: 10px 30px;
-    /*border: 2px solid black;*/
+    /*border: 2px solid  green;*/
     background-color:blueviolet;
     color:black;
     width: 40%;
@@ -57,6 +57,10 @@ h3 {
     float: left;
 }
 
+.nav ul {
+    padding: 0px;
+    /*border: 1px solid red;*/
+}
 .nav ul li {
     margin: 5px 0px;
     padding: 5px 5px;
@@ -66,9 +70,10 @@ h3 {
 }
 
 .nav ul li a {
-    display: block;
-    text-decoration: none;
+    display: block;   
     color: black;
+    text-decoration: none;
+
 }
 
 .nav ul li:hover, .nav ul li:active, .nav ul li:focus {
