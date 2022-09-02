@@ -1,19 +1,15 @@
 .vogel1 {
     display: inline;
     float: inline-start;
-    margin-left: 2%;
-    margin-right: 2%;
     padding: 2%;
     border: 2px solid black;
-    width: 40%;
+    width: 44%;
 }
 
 .vogel2 {
     display: inline;
-    float: inline-start;
-    margin-left: 2%;
-    margin-right: 2%;
+    float: inline-end;
     padding: 2%;
     border: 2px solid black;
-    width: 40%;
+    width: 44%;
 }
