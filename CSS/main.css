@@ -112,3 +112,13 @@ h3 {
     background-color: blueviolet;
     clear: both;
 }
+
+.vogel {
+    margin: 1%;
+    padding: 1%;
+    width: 96%;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid black;
+    
+}
