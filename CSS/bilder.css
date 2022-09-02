@@ -2,7 +2,7 @@
     display: inline;
     float: inline-start;
     padding: 2%;
-    border: 2px solid black;
+    /*border: 2px solid black;*/
     width: 44%;
 }
 
@@ -10,6 +10,6 @@
     display: inline;
     float: inline-end;
     padding: 2%;
-    border: 2px solid black;
+    /*border: 2px solid black;*/
     width: 44%;
 }
