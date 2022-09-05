@@ -2,7 +2,7 @@
     margin: 1%;
     padding: 2%;
     width: 23%;
-    height: 700px;
+    height: auto;
     background-color:blueviolet;
     color: azure;
     border: 2px solid greenyellow;
@@ -13,7 +13,7 @@
     margin: 1%;
     padding: 2%;
     width: 23%;
-    height: 700px;
+    height: auto;
     background-color:blueviolet;
     color: black;
     border: 2px solid greenyellow;
@@ -24,7 +24,7 @@
     margin: 1%;
     padding: 2%;
     width: 23%;
-    height: 700px;
+    height: auto;
     background-color:blueviolet;
     color: white;
     border: 2px solid greenyellow;
@@ -35,7 +35,7 @@
     margin: 1%;
     padding: 2%;
     width: 23%;
-    height: 700px;
+    height: auto;
     background-color:blueviolet;
     color: black;
     border: 2px solid greenyellow;
