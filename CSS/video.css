@@ -1,37 +1,4 @@
-#fenster_links {
-    margin: 1%;
-    padding: 2%;
-    width: 21%;
-    height: auto;
-    background-color:blueviolet;
-    color: black;
-    border: 2px solid greenyellow;
-    display: inline-block;
-}
-
-#fenster_mitte_links {
-    margin: 1%;
-    padding: 2%;
-    width: 21%;
-    height: auto;
-    background-color:blueviolet;
-    color: black;
-    border: 2px solid greenyellow;
-    display: inline-block;
-}
-
-#fenster_mitte_rechts {
-    margin: 1%;
-    padding: 2%;
-    width: 21%;
-    height: auto;
-    background-color:blueviolet;
-    color: black;
-    border: 2px solid greenyellow;
-    display: inline-block;
-}
-
-#fenster_rechts {
+.videofenster {
     margin: 1%;
     padding: 2%;
     width: 21%;
