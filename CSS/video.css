@@ -1,45 +1,45 @@
 #fenster_links {
     margin: 1%;
     padding: 2%;
-    width: 23%;
+    width: 21%;
     height: auto;
     background-color:blueviolet;
     color: black;
     border: 2px solid greenyellow;
-    float:inline-start;
+    display: inline-block;
 }
 
 #fenster_mitte_links {
     margin: 1%;
     padding: 2%;
-    width: 23%;
+    width: 21%;
     height: auto;
     background-color:blueviolet;
     color: black;
     border: 2px solid greenyellow;
-    float:left;
+    display: inline-block;
 }
 
 #fenster_mitte_rechts {
     margin: 1%;
     padding: 2%;
-    width: 23%;
+    width: 21%;
     height: auto;
     background-color:blueviolet;
     color: black;
     border: 2px solid greenyellow;
-    float:left;
+    display: inline-block;
 }
 
 #fenster_rechts {
     margin: 1%;
     padding: 2%;
-    width: 23%;
+    width: 21%;
     height: auto;
     background-color:blueviolet;
     color: black;
     border: 2px solid greenyellow;
-    float:inline-end;
+    display: inline-block;
 }
 
 #footer {
