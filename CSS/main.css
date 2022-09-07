@@ -26,6 +26,7 @@ h2 {
 }    
 
 h3 {
+    padding: 1%;
     background-color:gold;
     color:black;
     border: 2px solid black;
