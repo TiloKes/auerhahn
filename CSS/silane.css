@@ -1,9 +1,14 @@
+body {
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 h1 {
-    margin: 4%  23%;;
-    padding: 2%;
-    background-color:royalblue;
-    color:white;
-    font-size: 27px;
-    width: 54%;
-    height: auto;
+    margin: 3%;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color:gold;
+    color:black;
+    border: 2px solid black;
+    text-align: center;
 }
